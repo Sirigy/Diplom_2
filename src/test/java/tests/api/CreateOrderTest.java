@@ -1,4 +1,4 @@
-package testsAPI;
+package tests.api;
 
 import data.OrderData;
 import data.UserData;
